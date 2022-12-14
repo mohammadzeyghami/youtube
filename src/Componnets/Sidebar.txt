@@ -1,0 +1,19 @@
+overflowY  auto byd bshe 
+
+<stack>  height: { sx: "auto", md: "95%" },
+
+
+inja fln vase handel krdn active  in ro misazim 
+
+	
+	selectedCategory ro to feed ba useState misazim bad ba prop midim be Sidebar 
+	az intrf ba onclock SetselectedCategory mikonim 
+
+	color: category.name === selectedCategory ? "white" : "red"
+
+
+
+
+	
+
+ba style injory handel mikonim

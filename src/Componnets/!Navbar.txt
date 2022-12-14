@@ -1,0 +1,12 @@
+
+
+!we give a  sticky postion to navbar component !
+
+
+logo     			  spacebetween        	           SearchBar
+
+	
+  SearchBar   (boxShadow:none) 
+
+	Paper { input  ,  IconButton} 
+			
