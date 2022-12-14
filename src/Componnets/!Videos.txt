@@ -1,6 +1,0 @@
- {item.id.videoId && <VideoCard video={item} />}
-{/* we can find channel data inside videos data with this  */}
-{item.id.channelId && <ChannelCard video={item} />}
-
-
-ba in shart ha data haye channel ro az data haie video joda mikonim 
